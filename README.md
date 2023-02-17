@@ -35,6 +35,6 @@ Contributing
 If you find any issues or bugs in the code, or if you have suggestions for new examples or improvements, please feel free to contribute to this repository. You can create a pull request with your changes, or submit an issue with your feedback.
 
 License
-This project is licensed under the MIT License. Feel free to use the code in this repository for your own learning or other projects.
+This project is licensed under the. Feel free to use the code in this repository for your own learning or other projects.
 
 
